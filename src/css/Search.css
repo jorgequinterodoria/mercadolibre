@@ -1,0 +1,24 @@
+.search {
+    background-color: #ffe600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+.search__logo {
+    margin-right: 20px;
+}
+
+.search__input {
+    width: 600px;
+    height: 34px;
+    color: #333333;
+    border: none;
+}
+
+.search__find {
+    background-color: #eeeeee;
+    padding: 9px;
+    cursor: pointer;
+}
